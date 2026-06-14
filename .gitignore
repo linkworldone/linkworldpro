@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Coverage
+coverage/
+coverage.json
+
+# Misc
+*.tsbuildinfo
+.turbo/
+tasks/
+
+# Go
+vendor/
+*.test
+coverage.txt
+*.out
+bin/
+go.work
+
+# Backend specific
+packages/backend/data/
+packages/backend/config.local.yaml
+packages/backend/*.exe
+packages/backend/linkworld-backend
+packages/backend/.env
+
+需求说明书.txt
+需求说明书2.txt
+需求说明书3.txt
