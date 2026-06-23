@@ -14,7 +14,7 @@ Users can obtain mobile services worldwide by depositing a security bond to rece
 
 - **Zero KYC Identity** — Wallet address serves as your only identity
 - **NFT Traffic Card** — Deposit to mint NFT cards with corresponding traffic quota
-- **Flexible Deposit** — Minimum 10 USDT, no upper limit
+- **Flexible Deposit**
 - **Lock & Earn** — Lock deposit for one month to receive NFT Traffic Card
 - **Global Seamless Switching** — Switch to any country’s operator service anytime
 - **Stackable NFTs** — Accumulate multiple traffic cards
