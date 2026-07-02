@@ -14,7 +14,7 @@ Users can obtain mobile services worldwide by depositing a security bond to rece
 
 - **Zero KYC Identity** — Wallet address serves as your only identity
 - **NFT Traffic Card** — Deposit to mint NFT cards with corresponding traffic quota
-- **Flexible Deposit**
+- **Flexible Deposit** — Minimum 10 USDT, no upper limit
 - **Lock & Earn** — Lock deposit for one month to receive NFT Traffic Card
 - **Global Seamless Switching** — Switch to any country’s operator service anytime
 - **Stackable NFTs** — Accumulate multiple traffic cards
@@ -54,8 +54,7 @@ Users can obtain mobile services worldwide by depositing a security bond to rece
 
 ## Future Vision
 
-We are about to launch services for eSIM users and introduce service providers. Users will be able to directly purchase service plans while holding either a physical SIM or an eSIM, making the experience faster and more cost-effective.
-We aim to build a truly user-owned global mobile network, where anyone can enjoy convenient, affordable, and borderless communication services through decentralized technology. In the future, we will launch a universal global SIM card or eSIM to further simplify the user experience.
+We aim to build a truly user-owned global mobile network, where anyone can enjoy convenient, affordable, and borderless communication services through decentralized technology. In the future, we will launch a universal global SIM card to further simplify the user experience.
 
 ## Tech Stack
 
